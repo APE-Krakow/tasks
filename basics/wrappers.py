@@ -1,4 +1,3 @@
-from datetime import datetime
 import time
 
 def log_output_and_time(func):
